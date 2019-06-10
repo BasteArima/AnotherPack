@@ -1,0 +1,18 @@
+[
+{
+	"modid": "AnotherPack",
+	"name": "AnotherPack",
+	"description": "Мод, добавляющий множество невероятных вещей",
+	"version": "2.268.43",
+	"credits": "Created by Arima",
+	"authors": ["Arima"],
+	"logoFile": "/2.jpg",
+	"url": "http://www.mcskill.ru",
+	"updateUrl": "https://vk.com/baste_arima",
+	"parent": "11",
+	"screenshots": [],
+	"dependencies": [
+	"mod_MinecraftForge"
+	]
+}
+]

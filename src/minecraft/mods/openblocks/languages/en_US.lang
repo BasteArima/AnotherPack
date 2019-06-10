@@ -1,0 +1,21 @@
+openblocks.gui.lightbox=Лампа
+openblocks.gui.luggage=Камера
+openblocks.gui.sprinkler=Ороситель
+
+tile.openblocks.elevator.name=Лифт
+tile.openblocks.heal.name=Исцелитель
+tile.openblocks.guide.name=Строительный помощник
+tile.openblocks.ladder.name=Лестничный люк
+tile.openblocks.lightbox.name=Лампа
+tile.openblocks.tank.name=Резервуар
+tile.openblocks.target.name=Мишень
+tile.openblocks.grave.name=Могила
+tile.openblocks.flag.name=Флаг
+tile.openblocks.trophy.name=Трофей
+tile.openblocks.beartrap.name=Капкан
+
+item.openblocks.hangglider.name=Планер
+item.openblocks.gliderwing.name=Крыло планера
+item.openblocks.luggage.name=Ручной Мимик
+
+itemGroup.tabOpenBlocks=OpenBlocks
